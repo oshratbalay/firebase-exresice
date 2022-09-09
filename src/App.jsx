@@ -87,7 +87,7 @@ let dispatch = useDispatch();
         onChange={(e) => {
           setyear(e.target.value);
         }}
-        type="text"
+        type="text" jhbkggjgjgjhgjhb
       />
       <br />
       color:{" "}
